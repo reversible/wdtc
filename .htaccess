@@ -1,0 +1,4 @@
+SetEnv GEM_HOME /home/ethicalc/ruby/gems
+PassengerEnabled On
+PassengerAppRoot /home/ethicalc/railsapps/wdtc/
+
